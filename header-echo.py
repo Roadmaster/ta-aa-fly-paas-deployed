@@ -10,6 +10,8 @@ from sys import argv
 import pprint
 import socket
 
+# What do I need to do 
+#
 BIND_HOST = "::"
 PORT = 8008
 
