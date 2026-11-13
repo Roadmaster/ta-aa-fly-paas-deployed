@@ -8,7 +8,6 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from sys import argv
 import pprint
-import os
 import socket
 
 BIND_HOST = "::"
